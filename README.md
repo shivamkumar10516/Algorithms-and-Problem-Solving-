@@ -30,6 +30,7 @@ A comprehensive C++ implementation of fundamental algorithms and problem-solving
   - Comprehensive complexity analysis
   - Time complexity tables
   - Memory usage analysis
+  - in future i will implement new features.
 
 ## 🏗️ Project Structure
 i was build this poject for my first intership and i kinda enjoyed this project doing. it was my best experince and time.
